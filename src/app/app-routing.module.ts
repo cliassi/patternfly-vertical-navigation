@@ -6,11 +6,11 @@ import { VerticalNavTestComponent } from './temp/vertical-nav-test/vertical-nav-
 
 const routes: Routes = [
   {
-    path: "",
+    path: "nav",
     component: LauncherTestComponent
   },
   {
-    path: "nav",
+    path: "",
     component: VerticalNavTestComponent
   }
 ];
